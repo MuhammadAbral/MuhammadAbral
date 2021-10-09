@@ -1,0 +1,8 @@
+Apt update && Apt upgrade
+Apt install git
+Apt install python2
+Apt install Bash
+git clone https://github.com/AbayyH4CK3R
+CD AbayyH4CK3R
+ls
+python2 style5.py
